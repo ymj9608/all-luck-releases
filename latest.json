@@ -1,0 +1,12 @@
+{
+  "version": "2.4.0",
+  "build": 2,
+  "commit": "816afa7fc3e0d74fed85b0daa59d3be3fd9d88f4",
+  "updaterVersion": 1,
+  "file": "ALL-LUCK.zip",
+  "zipUrl": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.4.0-build.2/ALL-LUCK.zip",
+  "sha256": "8b70a257082fd9e3eb4ef21f50ce88cf129ed2d89eef8b9d806915d8ab571b38",
+  "size": 222028174,
+  "notes": "GitHub 기반 Windows 개발 배포",
+  "updatedAt": "2026-09-16T11:57:03.2192517Z"
+}
