@@ -1,12 +1,12 @@
 {
-  "version": "2.24.0",
-  "build": 37,
-  "commit": "853d66bf0ecc6eb6f0f1c7ff3ea53a82cc55a9ec",
+  "version": "2.25.0",
+  "build": 38,
+  "commit": "8638c4c9d69f3585e26c6b5aa325a8ccb941a874",
   "updaterVersion": 1,
   "file": "ALL-LUCK.zip",
-  "zipUrl": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.24.0-build.37/ALL-LUCK.zip",
-  "sha256": "990682f6c7a0e58c4bcc22c6a463392f7dff9fad0202b7cec52cf524a77d5e55",
-  "size": 503399168,
+  "zipUrl": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.25.0-build.38/ALL-LUCK.zip",
+  "sha256": "fb720fdcebd41ef8673168426cd53fe50a6d4ca21ed019af16853ea199a607c6",
+  "size": 503411797,
   "notes": "GitHub 기반 Windows 개발 배포",
-  "updatedAt": "2026-09-26T11:21:52.4022737Z"
+  "updatedAt": "2026-09-26T12:07:42.8384759Z"
 }
