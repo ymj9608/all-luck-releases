@@ -1,10 +1,10 @@
 {
   "updaterVersion": 1,
   "package": "org.allluck.game",
-  "version": "2.44.1",
-  "build": 62,
-  "commit": "921963162e0e0a288cf4ccff9850d7b0557cf92d",
-  "tag": "v2.44.1-build.62",
+  "version": "2.45.0",
+  "build": 63,
+  "commit": "440e427fc947c4f318108eb63b3819373c84cef9",
+  "tag": "v2.45.0-build.63",
   "protocol": 46,
   "signer": "6c1d56193fc6ea77b7504b43f9f68d2002429f73f5ba90d9ee4661d2fd307b56",
   "apk": {
@@ -19,16 +19,16 @@
   },
   "patch": {
     "base": 61,
-    "build": 62,
-    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.1-build.62/ALL-LUCK-Android-patch.pck",
-    "sha256": "622e9e287d763105eb4c8340469a303e26724a355c314669387d318e6c922006",
-    "size": 789204,
-    "signature": "gdI5zBDorEzUH7trxput4YKSEyUC8opj/gQg7ibI88g7/Aht5FLdPIk8cRNx2QWN7MgvEw6nXMYr4c4CvpKf71so8m8lcTgzXWk9Sy6zzq9Is3sikFp1TgVesXGlh9/24eZsW/T2NOHys2rFRaxzBVtO4HIB+ymCybTYqEPNnl/l7bJf/s8T+NLU8Ni3Nx/T/mSoF0kktl4PKlKywOngcsvvakwWYH3EcPBQ9iwVTNCpU7HHTkoP5pWb4i4lKAHqmxBauqF/fnZZZ3rQQb5F8gZ2Ut/44RRotSSjRO2X8ZfVgRWgVOx7NwEV//C/iORbb5oxr6YHP3sheSxyTNIaeHdKiD87mcI/jB2ajso/J10G2DyyATDeNAINmG9dKlE7ZXasgzbWymznfzxs8qf8LxzBwF9vKWWpAtit99OIY0hZMdw5y0Tb5WGOcGcDQeB/YrO9bOSN6QlMNkvSMHVhJJeSmIAtmi7IeRstp2d9+N6S/wXvury7SGRLmwYoTWuQ"
+    "build": 63,
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.45.0-build.63/ALL-LUCK-Android-patch.pck",
+    "sha256": "4f868bbc92ab0a1c15456def4138486338aad3638c895eb976a5460ed0ee63af",
+    "size": 1064988,
+    "signature": "lrMq/3CHEvKt9Z+6fpe1MUaM4Qtq8FPPMNPXLK3KOS+Exckw3HDiY6BhfEp/FRWc89n2j2vTIoocQxl/khd8BlM4hrB7FSpzsoKU6bFZ5ym66PcCRTLLfGl7D7KPiDDHhcltzMX04CtQmOYLPPF6PUXnGqvllzSrbef5aUNYgVfPkQt32euTFwA8DIM2MhnTcA9pPxUxhd0NfSYHKiHdnGnc5fEpwYUAnXnFc9DX3bGn6qFJeIs6TLNeEE/OMr0i2voH08RAv1gVTc2OJHyZ/NTghq6nLQBXUdz5eoEvgjm3H/+N1DzbERU9fZwh94zaRxoCBeUKNBxpOdzAgXsHCmwtk0sbch+lc/eRTbWMtpiF7DBS1ar4ltaB7hxQw2SZjQK6OomDcCJU+QHrmGYYt740XlaLA2rMWJNM1rnz1CIGpFy29gjutJT1wOy6O6YoqUmNpmBDEhO+Bp4ym84n/iYBN6/QAwUNd01ako2pc29kJk6GBz/Rqdjf3gJiNIvm"
   },
   "windows": {
-    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.1-build.62/ALL-LUCK.zip",
-    "sha256": "df8540e65b9662243aab0007796a51d139ec89bea3b9f717f84c058194fd872f",
-    "size": 525982467
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.45.0-build.63/ALL-LUCK.zip",
+    "sha256": "1fa5e5ba560f8b16848a1ec8f83447ebd43072c7b132cdcf78346e80d76360d2",
+    "size": 526023122
   },
-  "updatedAt": "2026-10-04T08:47:17.335Z"
+  "updatedAt": "2026-10-04T13:53:03.285Z"
 }
