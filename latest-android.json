@@ -1,0 +1,27 @@
+{
+  "updaterVersion": 1,
+  "package": "org.allluck.game",
+  "version": "2.44.0",
+  "build": 61,
+  "commit": "ee0e9dde9fa9e6be399d0cac90d01a095457abf6",
+  "tag": "v2.44.0-build.61",
+  "protocol": 46,
+  "signer": "6c1d56193fc6ea77b7504b43f9f68d2002429f73f5ba90d9ee4661d2fd307b56",
+  "apk": {
+    "build": 61,
+    "version": "2.44.0",
+    "versionCode": 2044000,
+    "tag": "v2.44.0-build.61",
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.0-build.61/ALL-LUCK-Android.apk",
+    "sha256": "85149f4c6856f2ae8779c8504ec27fce64a1eecf6badf35f3ccde608ea97b30d",
+    "size": 492237994,
+    "fingerprint": "a383b7d34ae3580a33801e4376369a3e1c7e08ee0d22ddc0371d88690d09f4a1"
+  },
+  "patch": null,
+  "windows": {
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.0-build.61/ALL-LUCK.zip",
+    "sha256": "d20233c725442255e243e9a3040210cf043e7c7e965eea39bc0eae85ea9cfd2c",
+    "size": 525965011
+  },
+  "updatedAt": "2026-10-04T06:36:24.182Z"
+}
