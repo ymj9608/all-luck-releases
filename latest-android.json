@@ -1,10 +1,10 @@
 {
   "updaterVersion": 1,
   "package": "org.allluck.game",
-  "version": "2.44.0",
-  "build": 61,
-  "commit": "ee0e9dde9fa9e6be399d0cac90d01a095457abf6",
-  "tag": "v2.44.0-build.61",
+  "version": "2.44.1",
+  "build": 62,
+  "commit": "921963162e0e0a288cf4ccff9850d7b0557cf92d",
+  "tag": "v2.44.1-build.62",
   "protocol": 46,
   "signer": "6c1d56193fc6ea77b7504b43f9f68d2002429f73f5ba90d9ee4661d2fd307b56",
   "apk": {
@@ -17,11 +17,18 @@
     "size": 492237994,
     "fingerprint": "a383b7d34ae3580a33801e4376369a3e1c7e08ee0d22ddc0371d88690d09f4a1"
   },
-  "patch": null,
-  "windows": {
-    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.0-build.61/ALL-LUCK.zip",
-    "sha256": "d20233c725442255e243e9a3040210cf043e7c7e965eea39bc0eae85ea9cfd2c",
-    "size": 525965011
+  "patch": {
+    "base": 61,
+    "build": 62,
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.1-build.62/ALL-LUCK-Android-patch.pck",
+    "sha256": "622e9e287d763105eb4c8340469a303e26724a355c314669387d318e6c922006",
+    "size": 789204,
+    "signature": "gdI5zBDorEzUH7trxput4YKSEyUC8opj/gQg7ibI88g7/Aht5FLdPIk8cRNx2QWN7MgvEw6nXMYr4c4CvpKf71so8m8lcTgzXWk9Sy6zzq9Is3sikFp1TgVesXGlh9/24eZsW/T2NOHys2rFRaxzBVtO4HIB+ymCybTYqEPNnl/l7bJf/s8T+NLU8Ni3Nx/T/mSoF0kktl4PKlKywOngcsvvakwWYH3EcPBQ9iwVTNCpU7HHTkoP5pWb4i4lKAHqmxBauqF/fnZZZ3rQQb5F8gZ2Ut/44RRotSSjRO2X8ZfVgRWgVOx7NwEV//C/iORbb5oxr6YHP3sheSxyTNIaeHdKiD87mcI/jB2ajso/J10G2DyyATDeNAINmG9dKlE7ZXasgzbWymznfzxs8qf8LxzBwF9vKWWpAtit99OIY0hZMdw5y0Tb5WGOcGcDQeB/YrO9bOSN6QlMNkvSMHVhJJeSmIAtmi7IeRstp2d9+N6S/wXvury7SGRLmwYoTWuQ"
   },
-  "updatedAt": "2026-10-04T06:36:24.182Z"
+  "windows": {
+    "url": "https://github.com/ymj9608/all-luck-releases/releases/download/v2.44.1-build.62/ALL-LUCK.zip",
+    "sha256": "df8540e65b9662243aab0007796a51d139ec89bea3b9f717f84c058194fd872f",
+    "size": 525982467
+  },
+  "updatedAt": "2026-10-04T08:47:17.335Z"
 }
